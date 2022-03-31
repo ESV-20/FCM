@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 import pandas as pd                                         #Import pandas for data visualization
 import matplotlib.pyplot as plt                             #Import library to display graphs
 from matplotlib.lines import Line2D
